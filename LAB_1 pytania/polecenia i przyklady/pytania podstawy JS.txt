@@ -1,0 +1,11 @@
+Czy kod JS jest calkowicie jawny dla uzytkownika?
+> Odp. nie
+
+Jaka jest podstawowa roznica miedzy php a js?
+> Odp. róznica jest taka ze php uzywa sie do serwera a js nie trzeba
+
+Dlaczego programu zegara odliczajacego czas nie nalezy pisac w PHP?
+> Odp. ...
+
+Podaj inny przyklad zastosowania JS (niz zegar) na sronie www.
+> Odp. do animacji elemntow czy pisania roznych gier
