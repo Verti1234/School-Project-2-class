@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="pl-PL">
+<head>
+    <meta charset="UTF-8">
+    <title>Java Script - ćwiczenia</title>
+</head>
+<body>
+    <div id="opis"></div>
+    <script>
+        
+        //samodzielnie zdefiniuj wartość zmiennej liczba
+        let nr=prompt("Podaj liczbę: ");
+
+		if (nr > 0) {
+			opis.innerHTML =`<h1>Liczba ${nr} jest większa od 0</h1>`;
+					}      
+        else if(nr == 0) {
+            opis.innerHTML =`<h1>Liczba ${nr} jest równa 0</h1>`;
+        }      
+        else {
+            opis.innerHTML =`<h1>Liczba ${nr} jest mniejsza od 0</h1>`;
+        }
+        
+    </script>
+</body>
+</html>
+       
